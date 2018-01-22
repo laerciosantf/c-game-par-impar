@@ -1,4 +1,4 @@
-c-game-par-impar-socket
+C Game - Par ou Ímpar
 ==================
 - Jogo de par ou ímpar automatizado em C, com a utilização de sockets para comunicação entre os processos cliente e servidor.
 - O sistema está montado e funcionando. No entanto, erros podem ser encontrados durante a execução do programa.
