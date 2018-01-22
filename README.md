@@ -6,7 +6,7 @@ c-game-par-impar-socket
 - Fora desenvolvido um relatório escrito, onde as etapas de execução do jogo estão descritas com detalhes.
 
 ### O que consta:
-------------
+==================
 1. Estruturas simples de controle e repetição
 2. Variáveis, vetores e/ou matrizes
 3. Strings e operações com strings
@@ -17,10 +17,10 @@ c-game-par-impar-socket
 8. Threads.
 
 ### O que não consta:
-------------
+==================
 1. Subprocessos (fork) e comunicação via pipes.
 
-------------
+==================
 
 O processo servidor está preparado para receber múltiplas conexões, porém ainda não foi testado.
 O processo cliente está funcionando.
